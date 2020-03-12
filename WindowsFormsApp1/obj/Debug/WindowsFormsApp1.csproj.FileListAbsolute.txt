@@ -18,3 +18,11 @@ D:\Users\lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 D:\Users\lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\Users\lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Users\lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
