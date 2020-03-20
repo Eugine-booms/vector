@@ -1,0 +1,11 @@
+D:\booms\c#\vector\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\booms\c#\vector\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\booms\c#\vector\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\vector_proga.csprojResolveAssemblyReference.cache
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\vector_proga.csproj.GenerateResource.cache
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\vector_proga.csproj.CoreCompileInputs.cache
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\booms\c#\vector\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.main_window.resources

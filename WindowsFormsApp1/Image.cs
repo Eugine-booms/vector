@@ -41,5 +41,21 @@ namespace WindowsFormsApp1
 
 
         }
+        public Bitmap DrawVector(PolarVector vector, int i)
+        {
+            Pen pen = new Pen(Color.Yellow, 8.0F);
+            if (i % 3 == 0)
+                pen.Color = Color.Yellow;
+            if (i % 3 == 1)
+                pen.Color = Color.Green;
+            if (i % 3 == 2)
+                pen.Color = Color.Red;
+
+            Graphics graph = Graphics.FromImage(Bmp);
+            graph.DrawLine(pen, PointF.Add(new Point(0, 0), new Size(height / 2, width / 2)), PointF.Add(vector.EndPoint, new Size(height / 2, width / 2)));
+           // graph.DrawLine(pen, vector.StartPoint, vector.EndPoint);
+
+            return Bmp;
+        }
     }
 }

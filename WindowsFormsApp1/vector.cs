@@ -23,19 +23,36 @@ namespace WindowsFormsApp1
     class PolarVector:Vector
     {
         //way derecion;
-        float angle;
-        public float Angle { get => angle; set => angle = value; }
+        string name;
+        public string Name { get => name; set => name = value; }
+        double angle;
+        public double Angle { get => angle; set => angle = value; }
 
+        public PolarVector(string name, double lenght, double angle, Point StartPoint/*, way way*/)
+        {
+       //     if (lenght == null) lenght = 0;
+       //     if (angle == null) angle = 0;
+
+            this.StartPoint = StartPoint;
+            EndPoint = new PointF((float)(lenght * Math.Cos(Math.PI * (angle-90) / 180.0)), (float)(lenght * Math.Sin(Math.PI * (angle-90) / 180.0)));
+            this.Length = lenght;
+            this.angle = 360 - angle;
+            this.name = name;
+    
+            // this.derecion = way;
+        }
         public PolarVector(float lenght, float angle, Point StartPoint/*, way way*/)
         {
-            if (lenght == null) lenght = 0;
-            if (angle == null) angle = 0;
+            //     if (lenght == null) lenght = 0;
+            //     if (angle == null) angle = 0;
+
             this.StartPoint = StartPoint;
             EndPoint = new PointF((float)(lenght * Math.Cos(Math.PI * angle / 180.0)), (float)(lenght * Math.Sin(Math.PI * angle / 180.0)));
             this.Length = lenght;
             this.angle = angle;
-            
-           // this.derecion = way;
+           
+
+            // this.derecion = way;
         }
 
         public PolarVector()
