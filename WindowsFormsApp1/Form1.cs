@@ -53,7 +53,6 @@ namespace WindowsFormsApp1
 
             };
             
-
             Measurement measurement2 = new Measurement(100F, 30, true, 100F, 150, true, 100F, 90, false);
 
 
