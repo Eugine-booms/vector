@@ -59,7 +59,7 @@ namespace WindowsFormsApp1
 
 
         }
-        private void DataGridView1_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        private void dataGridView1_CellEndEdit(object sender, DataGridViewCellEventArgs e)
         {
             // Clear the row error in case the user presses ESC.   
             dataGridView1.Rows[e.RowIndex].ErrorText = String.Empty;
