@@ -16,3 +16,6 @@ C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pro
 C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\vector_proga.csproj.GenerateResource.cache
 C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\booms\с#\Eugine-booms\vector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
