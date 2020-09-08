@@ -64,7 +64,7 @@ namespace WindowsFormsApp1
             // Clear the row error in case the user presses ESC.   
             dataGridView1.Rows[e.RowIndex].ErrorText = String.Empty;
         }
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
